@@ -90,7 +90,7 @@ const buildAccordion = function () {
   wrapper.className = 'accordion';
 
   const heading = document.createElement('h2');
-  heading.textContent = 'Quick Skills Overview';
+  heading.textContent = 'Interests';
   wrapper.appendChild(heading);
 
   for (const accordionItem of accordionData) {
