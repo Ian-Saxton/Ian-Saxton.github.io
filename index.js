@@ -70,14 +70,14 @@ document.querySelector('#reset-btn').addEventListener('click', function () {
 const accordionData = [
   {
     title: 'Software Intrest',
-    content: 'RPG Games, Software that empores people to access social saftey nets, Software that allows discorse to happen online, in a responsible and accountable way.',
+    content: 'RPG Games, Software that empowers people to access social safety nets, Software that allows discourse to happen online, in a responsible and accountable way.',
   },
   {
-    title: 'Outside of tech intrests',
+    title: 'Outside of tech interests',
     content: 'Time with family, Paddle boarding, Hiking, Camping, Table top Roll Playing games.',
   },
   {
-    title: 'Software to Monotize',
+    title: 'Software to Monetize',
     content: 'Social Media software that physically brings people together, or non profits to help people gathering resources reach out further.'
   }
 ];
